@@ -1,5 +1,6 @@
 # StarBucks Analysis based on the reward programme
 
+
 ## Introduction
 This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks.
 
@@ -113,11 +114,10 @@ Here is the schema and explanation of each variable in the files:
 
 
 
-### Results
-
-
 ### Reference
 * reference from kaggle for [ML](https://www.kaggle.com/pouryaayria/a-complete-ml-pipeline-tutorial-acu-86)
 * reference for [markdown](https://medium.com/@saumya.ranjan/how-to-write-a-readme-md-file-markdown-file-20cb7cbcd6f)
 * reference for [PiePlot](https://kontext.tech/column/code-snippets/402/pandas-dataframe-plot-pie-chart)
+* Used [Geek for Geeks](https://www.geeksforgeeks.org/) on various python related queries
+* My [Data_Blog](https://medium.com/p/be5198ecc0b1/edit)
  
