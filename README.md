@@ -33,8 +33,8 @@ The process involved in this project is covers all the traits of the Data Scienc
 
 ### Libraries
 This project uses lot of libraries if its not already installed, kindly install it prior to use.
-This project executed entirely in Python 3, so not tested in python2.
-List of all the libraries used, is listed down for reference.
+This project executed entirely in Python 3, and not tested in python2.
+List of all the libraries used, is given below for reference.
 
 ```python
 import pandas as pd
@@ -42,14 +42,14 @@ import numpy as np
 import math
 import json
 from sklearn import model_selection
-from sklearn.linear_model import LogisticRegression
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
-from sklearn.naive_bayes import GaussianNB
-from sklearn.svm import SVC
 from sklearn.model_selection import train_test_split
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.graph_objs as go
+
 % matplotlib inline
+
+#libraries for using machine learning algorithm 
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import KFold
 from sklearn.model_selection import StratifiedKFold
@@ -69,6 +69,7 @@ from sklearn.ensemble import AdaBoostClassifier
 from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.ensemble import ExtraTreesClassifier
+
 ```
 
 ### Data Blog
