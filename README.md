@@ -74,8 +74,7 @@ from sklearn.ensemble import ExtraTreesClassifier
 ```
 
 ### Data Blog
-The link will take you to the data blog, that is written for technical audience, that has the detailed 
-analysis with the visualisation explain.
+The link will take you to the [data blog](https://nancydoss.medium.com/these-are-the-skills-you-need-to-learn-to-be-a-successful-data-scientist-be5198ecc0b1), that is written for technical audience, It has the detailed analysis with the visualisation and the Machine learning explained.
 
 
 ### File Descriptions
@@ -119,5 +118,5 @@ Here is the schema and explanation of each variable in the files:
 * reference for [markdown](https://medium.com/@saumya.ranjan/how-to-write-a-readme-md-file-markdown-file-20cb7cbcd6f)
 * reference for [PiePlot](https://kontext.tech/column/code-snippets/402/pandas-dataframe-plot-pie-chart)
 * Used [Geek for Geeks](https://www.geeksforgeeks.org/) on various python related queries
-* My [Data_Blog](https://medium.com/p/be5198ecc0b1/edit)
+* My [Data_Blog](https://nancydoss.medium.com/these-are-the-skills-you-need-to-learn-to-be-a-successful-data-scientist-be5198ecc0b1) also more has reference used for the programming.
 * [Train_and_test](https://androidkt.com/split-the-data-into-train-test-dev/)
