@@ -18,12 +18,11 @@ Keep in mind as well that someone using the app might make a purchase through th
 The scope of this project is to analyse the 3 different dataset of the user from Starbucks. 
 The process involved in this project is covers all the traits of the Data Science.
 
-* Data Mining
+* Data Exploration
 * Data Wrangling
 * Data Visualisation
 * Data Cleaning
 * Data Proceessing using ML
-* Analysing the Data
 
 ## Table of Contents
 1. Libraries
@@ -65,7 +64,6 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 from sklearn.naive_bayes import GaussianNB
-from sklearn.svm import SVC
 from sklearn.ensemble import AdaBoostClassifier
 from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.ensemble import RandomForestClassifier
@@ -74,7 +72,7 @@ from sklearn.ensemble import ExtraTreesClassifier
 ```
 
 ### Data Blog
-The link will take you to the [data blog](https://nancydoss.medium.com/these-are-the-skills-you-need-to-learn-to-be-a-successful-data-scientist-be5198ecc0b1), that is written for technical audience, It has the detailed analysis with the visualisation and the Machine learning explained.
+The link will take you to the [data blog](https://nancydoss.medium.com/these-are-the-skills-you-need-to-learn-to-be-a-successful-data-scientist-be5198ecc0b1), It is written for the technical audience, It has the detailed analysis with the visualisation and the Machine learning explained.
 
 
 ### File Descriptions
